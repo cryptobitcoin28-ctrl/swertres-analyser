@@ -1,1 +1,0 @@
-{ "name": "Swertres Probables Analyser V3.0", "short_name": "Swertres 3D", "description": "Offline formula matching and draw history", "start_url": "./", "scope": "./", "display": "standalone", "background_color": "#101010", "theme_color": "#141414", "icons": [ { "src": "./Icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" } ] }
